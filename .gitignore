@@ -1,0 +1,4 @@
+# 원본 문서와 중간 산출물은 올리지 않음
+*.pdf
+tables.csv
+__pycache__/
