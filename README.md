@@ -8,9 +8,9 @@
 
 ## 📚 실습 목록
 
-| # | 실습 | 내용 | 기술 |
+| <sub>#</sub> | <sub>실습</sub> | <sub>내용</sub> | <sub>기술</sub> |
 |:--:|:--|:--|:--|
-| 01 | [PDF 표 데이터 파싱](./01-pdf-table-parsing) | 모집요강 PDF에서 표를 추출하고, 뭉친 셀 · 각주 · 숫자 표기를 정제 · 검증 | `Python` `pdfplumber` `pandas` `정규식` |
+| <sub>01</sub> | <sub>[PDF 표 데이터 파싱](./01-pdf-table-parsing)</sub> | <sub>모집요강 PDF에서 표를 추출하고, 뭉친 셀 · 각주 · 숫자 표기를 정제 · 검증</sub> | <sub>`Python` `pdfplumber` `pandas` `정규식`</sub> |
 
 <br>
 
